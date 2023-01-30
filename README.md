@@ -1,6 +1,6 @@
 # Code for Professional Portfolio website 
 
-Elvis Selimaj - Information Technology Support - Data Analytics Viz - Salesforce Admin and App Developer
+Elvis Selimaj - Cloud Eng
 
 https://elvisselimaj.github.io/
 
